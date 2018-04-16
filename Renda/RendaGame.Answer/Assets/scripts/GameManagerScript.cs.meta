@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 704f4f1b8975e4b9e8ddbe8d39201180
+timeCreated: 1497577884
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - countText: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - buttonText: {instanceID: 0}
+  - RendaSound: {fileID: 1095085788314912, guid: 9e42231bc664b4790a7b944aef4c2e53,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
